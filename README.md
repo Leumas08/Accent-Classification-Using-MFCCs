@@ -3,14 +3,14 @@
 This repository was written to perform accent classification using Mozilla Firefox's Common Voice dataset: https://commonvoice.mozilla.org/en/datasets
 
 Dependencies: </br>
-	keras
-	tensorflow
-	matplotlib
-	librosa	
-	Python
-	sklearn
-	pydub
-	itertools
+	keras </br>
+	tensorflow </br>
+	matplotlib </br>
+	librosa	</br>
+	Python </br>
+	sklearn </br>
+	pydub </br>
+	itertools </br>
 		
 To generate the MFCCs from this dataset, you need to run scripts/eda_mozilla.py
 	This will select a random number of audio samples of preset classes and compile all of the neccessary MFCCs. It will then split and save npy files for training, testing, and validation.
