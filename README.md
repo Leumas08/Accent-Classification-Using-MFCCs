@@ -2,7 +2,7 @@
 
 This repository was written to perform accent classification using Mozilla Firefox's Common Voice dataset: https://commonvoice.mozilla.org/en/datasets
 
-Dependencies:
+Dependencies: </br>
 	keras
 	tensorflow
 	matplotlib
