@@ -1,6 +1,7 @@
 # Accent-Classification-Using-MFCCs
 
-This repository was written to perform accent classification using Mozilla Firefox's Common Voice dataset: https://commonvoice.mozilla.org/en/datasets
+This repository was written to perform accent classification using Mozilla Firefox's Common Voice dataset: </br>
+	https://commonvoice.mozilla.org/en/datasets
 
 Dependencies: </br>
 	keras </br>
