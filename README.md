@@ -12,7 +12,8 @@ Dependencies: </br>
 	sklearn </br>
 	pydub </br>
 	itertools </br>
-		
+For easy enviromnet setup, please use conda to generate the environment saved to environment.yml. </br>
+
 To generate the MFCCs from this dataset, you need to run scripts/eda_mozilla.py
 	This will select a random number of audio samples of preset classes and compile all of the neccessary MFCCs. It will then split and save npy files for training, testing, and validation. The data generation script was adapted from Rao N.'s repository which can be found here: https://github.com/nkrao220/accent-classification. The dataset used for our final results can be download here: https://drive.google.com/file/d/12ybj9jYFgZezGPe7PNwssJuV_LxG8yP7/view?usp=sharing. This dataset consist of 12,000 samples from 3 accents (US, UK, and Indian).
 	
