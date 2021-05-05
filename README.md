@@ -20,6 +20,7 @@ To generate the MFCCs from this dataset, you need to run scripts/eda_mozilla.py
 	
 To run the training algorithm, you will need to run scripts/big_cnn_3.py
 	This will import the npy dataset files and train the Neural Network explained in our final report.
-	Afterward, it will display training/validation loss and accuracy followed by an ROC curve for each class.
+	Afterward, it will display training/validation loss and accuracy followed by an ROC curve for each class. </br>
+        Pre-trained weights can be downloaded here: . </br>
 
-#
+To reproduce the graphs, you can run scripts/baseline_models.py to generate either the Naive Bayes, Tree Classifier, and LDA plots. This was adapted from Jasmine He's repository which can be found here: https://github.com/Jasminehh/doodle_image_recognition_CNN. The script/big_cnn_3_test.py was used to reproduce the ROC and the confusion matrix. </br>
