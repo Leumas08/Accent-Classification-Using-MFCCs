@@ -8,7 +8,7 @@ Dependencies: </br>
 	tensorflow </br>
 	matplotlib </br>
 	librosa	</br>
-	Python </br>
+	IPython </br>
 	sklearn </br>
 	pydub </br>
 	itertools </br>
