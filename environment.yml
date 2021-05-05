@@ -1,0 +1,9 @@
+name: accent
+channels:
+  - anaconda
+  - defaults
+dependencies:
+  - cudatoolkit=11.0.221=h6bb024c_0
+  - libgcc-ng=9.1.0=hdf63c60_0
+  - libstdcxx-ng=9.1.0=hdf63c60_0
+prefix: /home/samuel/anaconda3/envs/accent
